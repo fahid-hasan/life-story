@@ -8,3 +8,5 @@ I will join at MFile 1st of December
 =======
 I am stadied in bsc in nursing at sneha nursing collage
 >>>>>>> 7b531bb6503d730b1c5d0bd56db28afad10ef250
+
+logo alingment is center
