@@ -1,5 +1,13 @@
 I born in 2003 march 12
 I have done my SSC in 2019
 I have complete my HSC in 2021
+<<<<<<< HEAD
 I am stadied in bsc in nursing
 I have started my full stack web development job in 2021
+I will join at MFile 1st of December
+=======
+I am stadied in bsc in nursing at sneha nursing collage
+>>>>>>> 7b531bb6503d730b1c5d0bd56db28afad10ef250
+
+logo alingment is center
+my logo2 alingment is center
